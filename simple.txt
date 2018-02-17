@@ -1,5 +1,7 @@
 git commiting to new branch
-simple first
+simple first	
 adding my comment in notepad
 adding my comment in git hub
+
+adding my 2nd notepad comment
 
